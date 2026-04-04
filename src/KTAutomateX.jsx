@@ -647,7 +647,7 @@ export default function KTAutomateX() {
     setMenuOpen(false);
   };
 
-  const WEBHOOK_URL = "https://hook.eu1.make.com/pbsmgmigbvua3a2ze4n76lze37ffb5qm";
+  const WEBHOOK_URL = "https://hook.eu1.make.com/p0d5lkifbxilwz93ccit7hn46hspfbjy";
 
   const handleSubmit = async (e) => {
     e.preventDefault();
